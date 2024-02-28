@@ -46,29 +46,25 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "REST API with JWT Authentication",
-    imageThumbnail: "/assets/images/project-03.png",
+    title: "Vehicle Booking System",
+    imageThumbnail: "/assets/images/project-vehicle-booking-system.png",
     description:
-      "A REST API is an application for backend that provides users to login using JWT, it also includes pagination to GET data for better performance",
+      "Personal Project App Pemesanan Kendaraan menggunakan Laravel + Stisla",
     livePreviewURL: "https://github.com/inifarhan/rest-api-with-jwt-and-pagination",
     repositoryURL: "https://github.com/inifarhan/rest-api-with-jwt-and-pagination",
     techStack: [
       {
-        tech: "Express JS",
-        logo: "/assets/svg/express.svg",
+        tech: "Laravel",
+        logo: "/assets/svg/laravel.svg",
       },
       {
-        tech: "Node JS",
-        logo: "/assets/svg/node js.svg",
+        tech: "Stisla",
+        logo: "/assets/svg/stisla.svg",
       },
       {
-        tech: "JWT",
-        logo: "/assets/svg/jwt.svg",
-      },
-      {
-        tech: "Javascript",
-        logo: "/assets/svg/javascript.svg",
-      },
+        tech: "Mysql",
+        logo: "/assets/svg/mysql.svg",
+      }
     ],
   },
 ];
