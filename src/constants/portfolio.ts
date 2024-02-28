@@ -24,24 +24,20 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "E-commerce Store",
-    imageThumbnail: "/assets/images/project-02.PNG",
+    title: "eFootball League",
+    imageThumbnail: "/assets/images/project-efootball.png",
     description:
-      "Fullstack E-commerce store allows the user to buy the product with Stripe payment that you make in Ecommerce-admin. The content in this application is dynamically customized in the Ecommerce-admin too.",
-    livePreviewURL: "https://ecommerce-store-delta-eight.vercel.app/",
-    repositoryURL: "https://github.com/inifarhan/ecommerce-store",
+      "Learning how to create a simple information website using Laravel + adminlte.",
+    livePreviewURL: "https://github.com/vigorjs/Football_League_Laravel",
+    repositoryURL: "https://github.com/vigorjs/Football_League_Laravel",
     techStack: [
       {
-        tech: "Next JS",
-        logo: "/assets/svg/next js.svg",
+        tech: "Laravel",
+        logo: "/assets/svg/laravel.svg",
       },
       {
-        tech: "Typescript",
-        logo: "/assets/svg/typescript.svg",
-      },
-      {
-        tech: "Stripe",
-        logo: "/assets/svg/stripe.svg",
+        tech: "Admin LTE",
+        logo: "/assets/svg/adminlte.svg",
       },
       {
         tech: "Mysql",
