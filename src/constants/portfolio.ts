@@ -3,7 +3,7 @@ import type { Portfolio } from "@/types";
 export const portfolioList: Portfolio[] = [
   {
     title: "Pegadaian Sistem Inventaris",
-    imageThumbnail: "/assets/images/project-pesiris.PNG",
+    imageThumbnail: "/assets/images/project-pesiris.png",
     description:
       "Web Inventory Management System integrated with QRcode made using MySql, Bootstrap and PHP native as my final project while interning at PT.Pegadaian.",
     livePreviewURL: "https://pesiris.my.id",
