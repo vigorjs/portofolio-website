@@ -16,9 +16,9 @@ export const sendEmail = async (values: FormInitialValues, actions: FormikHelper
     await emailjs.send(EMAIL_JS_SERVICE_ID, EMAIL_JS_TEMPLATE_ID, {
       first_name: parsedValues.first_name,
       last_name: parsedValues.last_name,
-      to_name: 'Farhan',
+      to_name: 'Virgo',
       from_email: parsedValues.email,
-      to_email: 'farhangunawan619@gmail.com',
+      to_email: 'virgofajar123@gmail.com',
       subject: parsedValues.subject,
       message: parsedValues.message
     }, EMAIL_JS_PUBLIC_KEY);
