@@ -124,7 +124,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-vehicle-booking-system.png",
     description:
       "Personal Project App Pemesanan Kendaraan menggunakan Laravel + Stisla",
-    livePreviewURL: "https://github.com/vigorjs/vehicle-booking-system",
+    livePreviewURL: "https://vehiclebookingsystem.vercel.app/",
     repositoryURL: "https://github.com/vigorjs/vehicle-booking-system",
     techStack: [
       {
