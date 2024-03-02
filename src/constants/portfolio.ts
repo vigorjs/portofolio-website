@@ -35,8 +35,8 @@ export const portfolioList: Portfolio[] = [
     title: "Improve Website MuTouch",
     imageThumbnail: "/assets/images/project-mutouch.png",
     description:
-      "Project to improving perfomance websites mu-touch.com by fixing SCP, LCP and connecting to DNS Cloudflare using wordpress. Also setting the stagging for development as well.",
-    livePreviewURL: "https://www.mu-touch.com/",
+      "Project to improving dekstop perfomance websites mu-touch.com by fixing SCP, LCP and connecting to DNS Cloudflare using wordpress. Also setting the stagging for development as well.",
+    livePreviewURL: "https://pagespeed.web.dev/analysis/https-mu-touch-com/5e3hx8jw0b?form_factor=desktop",
     repositoryURL: "https://www.mu-touch.com/",
     techStack: [
       {
