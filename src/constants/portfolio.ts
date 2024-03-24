@@ -2,6 +2,64 @@ import type { Portfolio } from "@/types";
 
 export const portfolioList: Portfolio[] = [
   {
+    title: "REST API Tiketing Bioskop with JWT Auth",
+    imageThumbnail: "/assets/images/project-golang.png",
+    description:
+      "Personal project create a REST API for backend that provides users to auth usin JWT and Booking seat ticket bioskop usin Golang and Postgresql",
+    livePreviewURL: "https://github.com/vigorjs/Bioskop_Golang",
+    repositoryURL: "https://github.com/vigorjs/Bioskop_Golang",
+    techStack: [
+      {
+        tech: "Golang",
+        logo: "/assets/svg/golang.svg",
+      },
+      {
+        tech: "Postgresql",
+        logo: "/assets/svg/Postgresql.svg",
+      }
+    ],
+  },
+  {
+    title: "Starter Kit L.I.T.T.R",
+    imageThumbnail: "/assets/images/project-littr.png",
+    description:
+      "Personal project create starter kit for L.I.T.T.R stack (Laravel 10, Inertia, Tailwind, Typescript, React). with roles management usin spatie, OAuth usin Socialite and Admin dashboard usin Shadcn.",
+    livePreviewURL: "https://github.com/vigorjs/scaffolding-laravel-inertia-react-typescript-shadcn",
+    repositoryURL: "https://github.com/vigorjs/scaffolding-laravel-inertia-react-typescript-shadcn",
+    techStack: [
+      {
+        tech: "Laravel",
+        logo: "/assets/svg/laravel.svg",
+      },
+      {
+        tech: "React",
+        logo: "/assets/svg/react.svg",
+      },
+      {
+        tech: "Tailwind",
+        logo: "/assets/svg/tailwind.svg",
+      },
+      {
+        tech: "Typescript",
+        logo: "/assets/svg/typescript.svg",
+      }
+    ],
+  },
+  {
+    title: "Revoluxweb",
+    imageThumbnail: "/assets/images/project-revolux.png",
+    description:
+      "personal project to offer web creation services. Made usin wordpress.",
+    livePreviewURL: "https://www.revoluxweb.com",
+    repositoryURL: "https://www.revoluxweb.com/",
+    techStack: [
+      {
+        tech: "wordpress",
+        logo: "/assets/svg/wordpress.svg",
+      }
+    ],
+  },
+  {
     title: "Markashima Wedding Studio",
     imageThumbnail: "/assets/images/project-markashima.png",
     description:

@@ -68,6 +68,12 @@ export const skillList: Skill[] = [
     description: "MySQL is a relational database management system (RDBMS) that is based on structured query language (SQL).",
   },
   {
+    skillIcon: "/assets/svg/postgresql.svg",
+    title: "Postgresql",
+    level: "Basic",
+    description: "PostgreSQL is an object-relational database management system (ORDMBS), which means that it has relational capabilities and an object-oriented design. Using object-oriented features of PostgreSQL, programmers can: Communicate with the database servers using objects in their code.",
+  },
+  {
     skillIcon: "/assets/svg/node js.svg",
     title: "Node JS",
     level: "Intermediate",
@@ -78,6 +84,12 @@ export const skillList: Skill[] = [
     title: "Express JS",
     level: "Intermediate",
     description: "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+  },
+  {
+    skillIcon: "/assets/svg/golang.svg",
+    title: "Golang",
+    level: "Basic",
+    description: "Go was originally built for programs related to networking and infrastructure. It was intended to replace popular high-performance server-side languages like Java and C++.",
   },
   {
     skillIcon: "/assets/svg/vite.svg",
@@ -129,6 +141,12 @@ export const toolList: Skill[] = [
     title: "Laragon",
     level: "Basic",
     description: "Laragon is a free and open-source development environment that allows developers to create and test web applications on their local machines.",
+  },
+  {
+    skillIcon: "/assets/svg/postman.svg",
+    title: "Postman",
+    level: "Basic",
+    description: "ostman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
   },
   {
     skillIcon: "/assets/svg/terminal.svg",
